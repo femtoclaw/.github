@@ -77,22 +77,22 @@ Status: Expanding
 femtoclaw/femtoclaw  
 Industrial agent runtime implementation (Rust)
 
-femtoclaw/spec  
+femtoclaw/femtoclaw-spec  
 Full engineering specification suite
 
-femtoclaw/compliance  
+femtoclaw/femtoclaw-compliance  
 Compliance test harness and certification suite
 
-femtoclaw/bench  
+femtoclaw/femtoclaw-bench  
 Benchmark suite and performance validation
 
-femtoclaw/docs  
+femtoclaw/femtoclaw-docs  
 White papers and architecture documentation
 
-femtoclaw/claws  
+femtoclaw/femtoclaw-claws  
 Capability modules and tool integrations
 
-femtoclaw/brand  
+femtoclaw/femtoclaw-brand  
 Logos, visual identity, and brand assets
 
 ---
