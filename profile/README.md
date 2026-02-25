@@ -206,7 +206,7 @@ Full documentation includes:
 
 See:
 
-https://github.com/femtoclaw/docs
+https://github.com/femtoclaw/femtoclaw-docs
 
 ---
 
