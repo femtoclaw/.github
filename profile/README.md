@@ -137,7 +137,7 @@ FemtoClaw executes actions.
 Typical runtime characteristics:
 
 Startup time: ~2–10 ms  
-Memory footprint: ~5–20 MB  
+Memory footprint: ~1-10 MB  
 Binary size: ~2–5 MB  
 Execution overhead: Microseconds per step  
 
@@ -169,7 +169,7 @@ This ensures production readiness.
 
 FemtoClaw supports extension through:
 
-• Capability modules ("Claws")  
+• Capability modules ("Claws + Talons")  
 • Custom inference providers ("Brains")  
 • Custom memory backends  
 • Protocol extensions  
